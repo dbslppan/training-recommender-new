@@ -1,0 +1,19 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+plotly
+streamlit
+
+# Utility
+typing-extensions
+
+# Optional: untuk menghindari warning versi baru
+warnings
+
+# Custom module (pastikan file advanced_ml_models.py ada di project)
+# Tidak perlu ditulis di pip, tapi beri catatan
+# advanced_ml_models (local module)
